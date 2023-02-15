@@ -1,0 +1,18 @@
+.list{
+/* Created with https://www.css-gradient.com */
+background: #F28D46;
+background: -webkit-linear-gradient(top left, #F28D46, #E8C599);
+background: -moz-linear-gradient(top left, #F28D46, #E8C599);
+background: linear-gradient(to bottom right, #F28D46, #E8C599);
+padding: 60px 36px;
+}
+
+.customer{
+    border-radius: 20px;
+    box-shadow: rgb(50 50 93 / 25%) 0px 50px 100px -20px, rgb(0 0 0 / 30%) 0px 30px 60px -30px, rgb(10 37 64 / 35%) 0px -2px 6px 0px inset;
+    padding: 10px;
+    height: 155px;
+    width: 300px;
+    background-color: white;
+}
+

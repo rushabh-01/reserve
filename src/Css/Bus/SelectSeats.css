@@ -1,0 +1,61 @@
+.seat-heading{
+    margin: 10px 0;
+}
+
+.select-row{
+    display: flex;
+    align-items: baseline;
+    gap: 40px;
+}
+
+.selectbox{
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0 1px 8px rgb(0 0 0 / 25%);
+    gap: 10px;
+}
+
+.seat-status{
+    display: inherit;
+    align-items: center;
+    display: block;
+}
+
+.dark{
+    background-color: darkgrey;
+    color: darkgrey;
+    border-radius: 10px;
+}
+
+.darkBlue{
+    background-color: darkorange;
+    color: darkorange;
+    border-radius: 10px;
+}
+
+.Boarding{
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 20px;
+    width: 320px;
+}
+.Boarding p{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    color: gray;
+    align-items: center;
+    font-size: smaller;
+}
+.Boarding p span{
+    color: black;
+    font-size: large;
+}
+.Boarding h3,.Boarding h4{
+   margin-top: 10px;
+}
+
+.payment-button{
+    width: 100%;
+    margin: 10px 0 0 0;
+}

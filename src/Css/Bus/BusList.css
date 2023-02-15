@@ -1,0 +1,31 @@
+.bus-list{
+    padding: 25px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bus-name h2{
+    font-size:x-large;
+    margin: 10px 0;
+}
+
+.bus-name p{
+    color: #6e6b6b;
+    margin: 5px 0;
+}
+
+.right-side{
+    border-left: 1px solid;
+    padding-left:40px ;
+}
+
+.right-side h3{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.maincard{
+    border-radius: 15px;
+    box-shadow: 0 1px 8px rgb(0 0 0 / 25%);
+}

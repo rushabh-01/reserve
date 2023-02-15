@@ -1,0 +1,41 @@
+
+
+.navbar,.navlinks{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+
+.navlinks{
+    padding: 20px 40px;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo a{
+    color: orange;
+    font-size: xx-large;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+a{
+    text-decoration: none;
+    color:black
+}
